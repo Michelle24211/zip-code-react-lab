@@ -6,6 +6,7 @@ the first app allows users to search by Zip Code and retrieve information about 
 the second app allows the user to search by City name and retrieve that City's related Zip Codes.
 To implement these apps, you're given access to a Zip Code API that you can access from your React app. Below is a brief description of how the API works.
 
+Press Enter after inputing text
 ## Project 1: Zip Code Search app
 
 <img src = "zip.gif">
