@@ -9,7 +9,7 @@ To implement these apps, you're given access to a Zip Code API that you can acce
 ## Project 1: Zip Code Search app
 
 
-
+<src href = "zip.gif">
 
 ## Project 2: City Search app
 
