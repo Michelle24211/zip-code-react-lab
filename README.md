@@ -1,9 +1,10 @@
 # Zip Code/City Search React Lab
 
-1. the first app allows users to search by Zip Code and retrieve information about Cities within that Zip Code.
-2. the second app allows the user to search by City name and retrieve that City's related Zip Codes.
+In this exercise, you will create two React apps:
 
-To implement these apps, you're given access to a Zip Code API that you can access from your React app. [Below is a brief description of how the API works](#the-zip-and-city-search-api-documentation-ctp-zip-api).
+the first app allows users to search by Zip Code and retrieve information about Cities within that Zip Code.
+the second app allows the user to search by City name and retrieve that City's related Zip Codes.
+To implement these apps, you're given access to a Zip Code API that you can access from your React app. Below is a brief description of how the API works.
 
 ## Project 1: Zip Code Search app
 
